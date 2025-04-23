@@ -6,3 +6,10 @@ Recording:
 
 Write-up: 
 
+---
+
+|Resource|Description|
+|-|-|
+|`sp-tunnel.py`|A [Turbo Intruder](https://github.com/PortSwigger/turbo-intruder) script to aid in exploitation. It will repeat the single-packet attack until it recieves a tunnelled response| 
+
+
