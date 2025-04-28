@@ -1,10 +1,10 @@
 # The Single Packet Shovel
 
-All resources here related to the research originally presented at [BSides Exeter 2025](https://bsidesexeter.co.uk/). 
+All resources here are related to the research originally presented at [BSides Exeter 2025](https://bsidesexeter.co.uk/). 
 
-Recording: 
+Recording: comming soon...
 
-Write-up: 
+Write-up: comming soon...
 
 ---
 
