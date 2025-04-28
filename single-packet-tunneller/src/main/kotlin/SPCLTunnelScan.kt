@@ -66,7 +66,7 @@ internal class SPCLTunnelScan(name: String?) : Scan(name) {
 
             //If swap method to POST if enabled
             if (Utilities.globalSettings.getBoolean("convert GET to POST")) {
-                baseReqWithPermutation = Utilities.helpers.toggleRequestMethod(baseReqWithPermutation)
+                baseReqWithPermutation = Utilities.setMethod(baseReqWithPermutation, "POST");
             }
 
             baseReqWithPermutation = Utilities.setBody(baseReqWithPermutation, "FOO\r\n\r\n")
