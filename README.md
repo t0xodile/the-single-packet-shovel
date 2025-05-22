@@ -4,7 +4,7 @@ All resources here are related to the research originally presented at [BSides E
 
 Recording: comming soon...
 
-Write-up: comming soon...
+Write-up: [https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling](https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling)
 
 Abstract:
 
