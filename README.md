@@ -2,7 +2,7 @@
 
 All resources here are related to the research originally presented at [BSides Exeter 2025](https://bsidesexeter.co.uk/). 
 
-Recording: comming soon...
+Recording: [https://www.youtube.com/watch?v=BTdP7yjbH5Y](https://www.youtube.com/watch?v=BTdP7yjbH5Y)
 
 Write-up: [https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling](https://www.assured.se/posts/the-single-packet-shovel-desync-powered-request-tunnelling)
 
